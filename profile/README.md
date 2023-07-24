@@ -9,7 +9,7 @@ Learn basics of the class file format, including the constant pool, attributes &
 Learn the powerful interpreter behind JVM bytecode.
 
 ## 🧙 [JIT](https://github.com/jvm-wiki/jit)
-Learn how methods are JIT compiled at runtime.
+Learn about tiered compilation and how methods are JIT compiled at runtime.
 
 ## 🐛 [Debugging](https://github.com/jvm-wiki/debugging)
 Learn how to effectively utilise JDK tools to debug JVM applications.
