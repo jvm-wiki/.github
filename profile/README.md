@@ -1,6 +1,8 @@
 # JVM Wiki
 The library of information pertaining to the Java Virtual Machine.
 
+Have an idea, suggestion or something cool to share? use the [discussion channel](https://github.com/orgs/jvm-wiki/discussions)!
+
 ### Contents
 ## 🧬 [Bytecode](https://github.com/jvm-wiki/bytecode)
 Learn basics of the class file format, including the constant pool, attributes & code.
