@@ -8,7 +8,7 @@ Have an idea, suggestion or something cool to share? use the [discussion channel
 Learn basics of the class file format, including the constant pool, attributes & code.
 
 ## 🧠 [Interpreter](https://github.com/jvm-wiki/interpreter)
-Learn the powerful interpreter behind JVM bytecode.
+Learn about the powerful interpreter behind JVM bytecode.
 
 ## 🧙 [JIT](https://github.com/jvm-wiki/jit)
 Learn about tiered compilation and how methods are JIT compiled at runtime.
