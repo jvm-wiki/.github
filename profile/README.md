@@ -15,10 +15,10 @@ Learn how methods are JIT compiled at runtime.
 Learn how to effectively utilise JDK tools to debug JVM applications.
 
 ## 🔗 [JNI](https://github.com/jvm-wiki/jni)
-Learn more about the Java Native Interface and it's uses.
+Learn about the Java Native Interface and it's uses.
 
 ## 🛠️ [JVMTI](https://github.com/jvm-wiki/jvmti)
-Learn more about the Tool Interface and it's uses.
+Learn about the Tool Interface and it's uses.
 
 ## 📚 [Examples](https://github.com/jvm-wiki/examples)
 The repository of examples.
