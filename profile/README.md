@@ -22,6 +22,9 @@ Learn about the Java Native Interface and it's uses.
 ## 🛠️ [JVMTI](https://github.com/jvm-wiki/jvmti)
 Learn about the Tool Interface and it's uses.
 
+## 🕵🏻‍♂️ [Hacking](https://github.com/jvm-wiki/hacking)
+Learn how to hack the JVM to do unspeakable things.
+
 ## 📚 [Examples](https://github.com/jvm-wiki/examples)
 Examples which put JVM concepts into practice.
 
