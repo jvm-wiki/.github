@@ -21,5 +21,5 @@ Learn about the Java Native Interface and it's uses.
 Learn about the Tool Interface and it's uses.
 
 ## 📚 [Examples](https://github.com/jvm-wiki/examples)
-The repository of examples.
+Examples which put JVM concepts into practice.
 
